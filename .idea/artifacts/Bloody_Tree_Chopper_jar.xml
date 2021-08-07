@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bloody Tree Chopper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bloody_Tree_Chopper_jar</output-path>
+    <root id="archive" name="Bloody Tree Chopper.jar">
+      <element id="module-output" name="Bloody Tree Chopper" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/osbot 2.6.31.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
